@@ -1,5 +1,5 @@
-<h1 align="center">Hello World, меня зовут Карен</h1>
-<h3 align="center">Я Java разработчик из Москвы</h3> 
+<h1 align="center">Петросян Карен Эдуардович</h1>
+<h3 align="center">Ведущий программист ГВЦ РЖД</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
